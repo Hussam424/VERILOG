@@ -17,5 +17,5 @@ Combinational Logic: always @(*), means the output Y is updated immediately when
 
 #Finite State Machine#
 Design  a state machine for the module definition below 
-![Module Diagram] (FiniteMachine-Module Diagram.PNG)
+![Module Diagram] (https://github.com/Hussam424/VERILOG/blob/main/FiniteMachine-Module%20Diagram.PNG))
  RST signal is active low.
