@@ -23,3 +23,6 @@ https://github.com/Hussam424/VERILOG/edit/main/FiniteMachine-Module%20Diagram.PN
 
  # Create a RAM#
 Implementing a 128 by 32 signal-port RAM. Register the read outputs (labeled q) 
+
+# 74LS161a Binary Counter#
+design a replacement for the 74LS161a 4-bit binary counter
