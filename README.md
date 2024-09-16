@@ -14,3 +14,8 @@ Operation Selection: The 3-bit Op_code allows for up to 8 different operations, 
 110: Decrement A (A - 1)
 111: Pass through B (output B unchanged)
 Combinational Logic: always @(*), means the output Y is updated immediately whenever any input changes.
+
+#Finite State Machine#
+Design  a state machine for the module definition below 
+![Module Diagram] (FiniteMachine-Module Diagram.PNG)
+ RST signal is active low.
