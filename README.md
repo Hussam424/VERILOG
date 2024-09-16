@@ -19,3 +19,7 @@ Combinational Logic: always @(*), means the output Y is updated immediately when
 Design  a state machine for the module definition  
 https://github.com/Hussam424/VERILOG/edit/main/FiniteMachine-Module%20Diagram.PNG
  RST signal is active low.
+
+
+ # Create a RAM#
+Implementing a 128 by 32 signal-port RAM. Register the read outputs (labeled q) 
