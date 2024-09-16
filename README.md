@@ -16,6 +16,6 @@ Operation Selection: The 3-bit Op_code allows for up to 8 different operations, 
 Combinational Logic: always @(*), means the output Y is updated immediately whenever any input changes.
 
 #Finite State Machine#
-Design  a state machine for the module definition below 
-![Module Diagram] (https://github.com/Hussam424/VERILOG/blob/main/FiniteMachine-Module%20Diagram.PNG)
+Design  a state machine for the module definition  
+![Module Diagram] 
  RST signal is active low.
