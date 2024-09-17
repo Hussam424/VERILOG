@@ -26,3 +26,6 @@ Implementing a 128 by 32 signal-port RAM. Register the read outputs (labeled q)
 
 # 74LS161a Binary Counter#
 design a replacement for the 74LS161a 4-bit binary counter
+
+#  4-bit full adder #
+the code describing a full 4-bit adder.
