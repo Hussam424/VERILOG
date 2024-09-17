@@ -28,4 +28,5 @@ Implementing a 128 by 32 signal-port RAM. Register the read outputs (labeled q)
 design a replacement for the 74LS161a 4-bit binary counter
 
 #  4-bit full adder #
-the code describing a full 4-bit adder.
+the code contains the Verilog which describes the 
+FPGA implementation of 4-bit adder with carry. The inputs are 2 3-bit vectors A and B, and a scalar carry in Cin.Outputs are Sum and Cout.
